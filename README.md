@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.gifer.com/V1l.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I am a backend developer focused on Java and Spring Boot. I enjoy building efficient and well-structured management systems. I am self-taught, organized, a good communicator, and I like to plan and document my projects, organizing ideas in Notion.
